@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#EA7E5D;
+}
+.navbar{
+    background-color:#FFA07A;
+    color: white;
+    font-weight: lighter;
+    padding: 10px;
+    height: 50px;    
+}
+.menu-tog{
+    background-color: #FF7518;
+    width: 25px;
+    text-align: center;
+    border-radius: 4px;
+}
+.sidebar{
+    width: 500px;    
+    height: 500px;    
+}
+
+/* #FF7F50
+#F5DEB3
+#FFA07A
+#EA7E5D
+#F5DEB3
+#EA70PD
+#FF7518*/
